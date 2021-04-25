@@ -14,6 +14,6 @@ dependencies:
   - pydot
   - seaborn
   - scipy
-  - sklearn
+  - scikit-learn
   - tensorflow
-  - tensorflow_probability
+  - tensorflow-probability
