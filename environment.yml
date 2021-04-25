@@ -4,3 +4,16 @@ channels:
 dependencies:
   - python
   - rise
+  - bokeh
+  - graphviz
+  - ipywidgets
+  - matplotlib
+  - numpy
+  - pandas
+  - pandas-datareader
+  - pydot
+  - seaborn
+  - scipy
+  - sklearn
+  - tensorflow
+  - tensorflow_probability
