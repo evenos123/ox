@@ -1,4 +1,5 @@
 bokeh
+graphviz
 ipywidgets
 matplotlib
 numpy
@@ -9,3 +10,4 @@ seaborn
 scipy
 sklearn
 tensorflow
+tensorflow_probability
