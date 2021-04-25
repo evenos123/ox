@@ -1,0 +1,11 @@
+bokeh
+ipywidgets
+matplotlib
+numpy
+pandas
+pandas-datareader
+pydot
+seaborn
+scipy
+sklearn
+tensorflow
